@@ -1,6 +1,6 @@
 # cuthroat
 
-> My priceless app
+> Strategy game
 
 ## Install
 
